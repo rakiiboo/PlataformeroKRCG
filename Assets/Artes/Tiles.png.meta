@@ -3047,13 +3047,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tiles_146
+      name: Bullet
       rect:
         serializedVersion: 2
-        x: 48
-        y: 584
-        width: 8
-        height: 8
+        x: 51
+        y: 587
+        width: 2
+        height: 2
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -28045,6 +28045,7 @@ TextureImporter:
       Tiles_1314: 1777578627
       Tiles_640: 1814266007
       Tiles_760: 1283888475
+      Bullet: 473321707
       Tiles_1299: 1984954201
       Tiles_1240: 1703681478
       Tiles_293: 861593077
@@ -28354,7 +28355,6 @@ TextureImporter:
       Tiles_1309: 1611847350
       Tiles_454: -28823101
       Tiles_46: 1670062606
-      Tiles_146: 473321707
       Tiles_928: 280850927
       Tiles_417: -27966646
       Tiles_1239: -2137620287
