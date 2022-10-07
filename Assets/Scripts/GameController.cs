@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+// Clase controladora del juego
 public class GameController : MonoBehaviour
 {
     public int level = 0;
