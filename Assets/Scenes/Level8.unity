@@ -16386,7 +16386,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1475789966}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -24.15, y: 21.96, z: 0}
+  m_LocalPosition: {x: -24, y: 20.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -16867,7 +16867,7 @@ GameObject:
   - component: {fileID: 1758836377}
   m_Layer: 0
   m_Name: GameController
-  m_TagString: Untagged
+  m_TagString: GameController
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16885,12 +16885,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   level: 8
-  winSpot: {fileID: 1431441573}
-  player: {fileID: 1475789966}
   checkPoints:
   - {fileID: 2051459533}
   - {fileID: 783911403}
-  isFinal: 0
+  finalLevel: 0
 --- !u!4 &1758836378
 Transform:
   m_ObjectHideFlags: 0
