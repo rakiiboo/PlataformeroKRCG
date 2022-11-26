@@ -4305,7 +4305,7 @@ GameObject:
   - component: {fileID: 2007588126}
   m_Layer: 0
   m_Name: GameController
-  m_TagString: Untagged
+  m_TagString: GameController
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4323,8 +4323,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   level: 3
-  winSpot: {fileID: 508192020}
-  player: {fileID: 827692685}
   checkPoints:
   - {fileID: 1219691501}
   - {fileID: 1709057763}
